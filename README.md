@@ -2,7 +2,7 @@
 
 <img src="prompt_and_results/UI1.jpg" alt="UI1" style="zoom: 25%;" />
 
-
+Reminder: More codes for infra are still being sorted out.
 
 ## 🚀 Project Highlights
 
